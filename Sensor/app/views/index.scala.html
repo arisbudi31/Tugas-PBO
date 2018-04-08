@@ -1,0 +1,5 @@
+@(daftar:List[models.sensorType])
+
+@for(sensor <- daftar){
+	<li>@sensor.toString</li>
+}
