@@ -1,4 +1,3 @@
-This is your new Play application
-=====================================
-
-This file will be packaged with your application, when using `play dist`.
+Sistem ini merupakan suatu aplikasi web data logger yang menampilkan data log dan juga user dapat menginputkan data secara manual.
+pada sistem yang sebenarnya, sistem ini dapat dikoneksikan dengan mikrokontroller yang data hasil sensing dapat disimpan dalam database
+kemudian ditampilkan pada web, atau di sensing terlebih dahulu dan langsung ditampilkan ke web kemudian disimpan dalam database.
